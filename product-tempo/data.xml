@@ -114,30 +114,30 @@
   <credits>
     <credit>
       <person>Ayodele Afolabi</person>
-      <role>Artist</role>
+      <role>2D Artist</role>
       <!-- Optional: -->
       <website></website>
     </credit>
     
     <credit>
       <person>Brett Blandford</person>
-      <role>Artist</role>
+      <role>Generalist Developer</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://blandb2.myportfolio.com/test</website>
     </credit>
     
     <credit>
       <person>Jingyu Zhuang</person>
       <role>Producer</role>
       <!-- Optional: -->
-      <website>https://www.jingyuzhuang.top</website>
+      <website>https://www.linkedin.com/in/jingyuzhuang/</website>
     </credit>
     
     <credit>
       <person>Millie Harris</person>
-      <role>Artist</role>
+      <role>Technical Artist</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://millieharris.pb.studio/</website>
     </credit>
     
     <credit>
@@ -151,7 +151,7 @@
       <person>Wyatt Marvil</person>
       <role>Programmer</role>
       <!-- Optional: -->
-      <website></website>
+      <website>https://2020wmarvil.github.io/</website>
     </credit>
   </credits>
 
