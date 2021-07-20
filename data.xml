@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Aestronauts</title>
+  <based-in>NY, the United States</based-in>
+  <founding-date>May 24, 2021</founding-date>
+  <website></website>
+  <press-contact>
+    <!-- Mail address -->
+    jingyuzhuang1999@outlook.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <!-- <phone></phone>-->
+  <!--<address>
+    <line>
+      Street
+    </line>
+    <line>
+      City
+    </line>
+    <line>
+      Country
+    </line>
+  </address>-->
+
+  <socials>
+    <social>
+      <name>LinkedIn</name>
+      <link>
+        <!-- URL starting with http or https -->
+        https://www.linkedin.com/company/74046630/admin/
+      </link>
+    </social>
+  </socials>
+
+  <description>Aestronauts is a NY based game studio looking to bring entertainment to unlikely places. We are committed to making engaging and light-hearted experiences that can be enjoyed by everyone.</description>
+
+  <!-- Choose between a single block: -->
+  <!--<history></history>-->
+
+  <!-- Or multiple blocks: -->
+  <histories>
+    <history>
+      <header>Tempo Prototyped, June 18</header>
+      <text>We finished our first playable prototype, Tempo, which went on to become our debut release.</text>
+    </history>
+    <history>
+      <header>Joined Level UpState 2021, June 14</header>
+      <text>Level UpState is an incubator program for game dev startups.</text>
+    </history>
+    <history>
+      <header>Team Founded, May 24</header>
+      <text>Aestronauts was founded by 6 developers</text>
+    </history>
+  </histories>
+
+  <!--<trailers>
+    <trailer>
+      <name></name>
+
+      Pick one:
+      <youtube>
+        Video ID only, not the full URL
+      </youtube>
+      <vimeo>
+        Video ID only, not the full URL
+      </vimeo>
+    </trailer>
+  </trailers>-->
+
+  <!--<awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>-->
+
+  <!--<quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>-->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>-->
+
+  <credits>
+    <credit>
+      <person>Ayodele Afolabi</person>
+      <role>Artist</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+    
+    <credit>
+      <person>Brett Blandford</person>
+      <role>Artist</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+    
+    <credit>
+      <person>Jingyu Zhuang</person>
+      <role>Producer</role>
+      <!-- Optional: -->
+      <website>https://www.jingyuzhuang.top</website>
+    </credit>
+    
+    <credit>
+      <person>Millie Harris</person>
+      <role>Artist</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+    
+    <credit>
+      <person>Noah Maestre</person>
+      <role>Sound Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/noah-maestre-20212081/</website>
+    </credit>
+    
+    <credit>
+      <person>Wyatt Marvil</person>
+      <role>Programmer</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Jingyu Zhuang</name>
+      <!-- Pick one: -->
+      <mail>jingyuzhuang1999@outlook.com</mail>
+    </contact>
+  </contacts>
+</company>
